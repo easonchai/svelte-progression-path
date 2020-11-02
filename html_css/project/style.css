@@ -73,6 +73,14 @@ p {
   font-weight: 300;
 }
 
+footer {
+  background: #f3eded;
+  height: 20vh;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
 #logo {
   font-family: "Pacifico", cursive;
   font-size: 2rem;

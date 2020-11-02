@@ -90,7 +90,11 @@ footer {
 form {
   display: flex;
   flex-direction: column;
-  margin: 3rem 0px;
+  margin: 1.5rem 0px;
+}
+
+label {
+  margin-top: 1.5rem;
 }
 
 input {

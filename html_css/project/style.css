@@ -87,6 +87,17 @@ footer {
   align-items: center;
 }
 
+form {
+  display: flex;
+  flex-direction: column;
+  margin: 3rem 0px;
+}
+
+input[type="text"] {
+  border: none;
+  border-bottom: 2px solid #222;
+}
+
 #logo {
   font-family: "Pacifico", cursive;
   font-size: 2rem;

@@ -117,6 +117,13 @@ button {
   padding: 1rem;
   border: 2px solid #6f4e37;
   background: none;
+  border-radius: 10px;
+  margin-top: 2rem;
+  cursor: pointer;
+}
+
+button:focus {
+  outline: none;
 }
 
 #logo {

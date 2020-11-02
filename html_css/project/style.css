@@ -15,11 +15,11 @@ nav {
 
 nav li {
   list-style-type: none;
+  margin: 2rem;
 }
 
 nav a {
   text-decoration: none;
-  margin: 2rem;
   color: white;
 }
 

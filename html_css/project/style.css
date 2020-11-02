@@ -74,6 +74,7 @@ p {
 }
 
 footer {
+  display: flex;
   background: #f3eded;
   height: 20vh;
   width: 100%;

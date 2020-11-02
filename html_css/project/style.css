@@ -116,10 +116,18 @@ button {
   font-size: 1.2rem;
   padding: 1rem;
   border: 2px solid #6f4e37;
+  color: #6f4e37;
   background: none;
   border-radius: 10px;
   margin-top: 2rem;
   cursor: pointer;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: #6f4e37;
+  color: white;
 }
 
 button:focus {

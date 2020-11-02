@@ -73,6 +73,11 @@ p {
   font-weight: 300;
 }
 
+h4 {
+  font-size: 1.4rem;
+  font-weight: 400;
+}
+
 footer {
   display: flex;
   background: #f3eded;
@@ -91,10 +96,34 @@ footer {
   height: 90vh;
 }
 
-#whole_beans {
+#whole {
   position: absolute;
   max-height: 90vh;
   clip-path: polygon(25% 0%, 100% 0%, 100% 100%, 0% 100%);
+}
+
+#contact-form {
+  width: 70%;
+  padding: 5vw;
+  background: #fff4e0;
+}
+
+#contact-details {
+  width: 30%;
+  padding: 5vw;
+}
+
+#contact-details::after {
+  content: "";
+  background-image: url("assets/background.png");
+  background-size: cover;
+  opacity: 0.3;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
 }
 
 .text {
@@ -103,4 +132,12 @@ footer {
 
 .image {
   align-items: center;
+}
+
+.title {
+  color: #555;
+}
+
+.details {
+  margin-bottom: 4rem;
 }

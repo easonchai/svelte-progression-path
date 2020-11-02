@@ -1,4 +1,4 @@
-## STEP 4: General / Dev Skills
+## STEP 3: General / Dev Skills
 
 Phew, it has been three long courses and your brain & fingers might feel like dying by now. Time to take a break (well, kinda) with some general & dev skills!
 

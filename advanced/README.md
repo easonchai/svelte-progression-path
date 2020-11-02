@@ -1,4 +1,4 @@
-## STEP 6: To Infinity & Beyond!
+## STEP 5: To Infinity & Beyond!
 
 So you now know Svelte! Where do we go from here?
 

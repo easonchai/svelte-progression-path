@@ -1,4 +1,4 @@
-## STEP 5: Svelte!
+## STEP 4: Svelte!
 
 Yay! We made it! It's finally time to learn Svelte!
 

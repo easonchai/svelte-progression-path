@@ -13,11 +13,10 @@ nav {
   background: #6f4e37;
 }
 
-nav li {
-  display: inline;
+nav a {
+  text-decoration: none;
   margin: 2rem;
   color: white;
-  cursor: pointer;
 }
 
 nav h2 {
@@ -58,21 +57,13 @@ section div {
   overflow: hidden;
 }
 
-h1 {
-  font-size: 3rem;
-  font-weight: 500;
-}
-
+h1,
 h2 {
   font-size: 3rem;
   font-weight: 500;
 }
 
-h3 {
-  font-size: 2rem;
-  font-weight: 400;
-}
-
+h3,
 p {
   font-size: 2rem;
   font-weight: 300;
